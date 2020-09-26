@@ -30,7 +30,7 @@
 
 Except for some of the books, all resources provided here should be free, available online and should not require logging in to any service. All credit goes to the **awesome authors** of these resources.
 
-If you know some **awesome free control resources** that deserve to be on this list, feel free to post them in [this issue]() or make a pull-request. See [contribution guidelines](contributing.md).
+If you know some **awesome free control resources** that deserve to be on this list, feel free to post them in [this issue](https://github.com/A-make/awesome-control-theory/issues/1) or make a pull-request. See [contribution guidelines](contributing.md).
 
 ## Books
 
