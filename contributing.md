@@ -5,7 +5,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 ---
 
 ## Posting resources to issue
-The simplest way to add a resource is to post it to [this issue](). Please add name, link, type (e.g. book, video lecture etc.) and a short description of the resource(s).  
+The simplest way to add a resource is to post it to [this issue](https://github.com/A-make/awesome-control-theory/issues/1). Please add name, link, type (e.g. book, video lecture etc.) and a short description of the resource(s).  
 
 ## Pull-request
 
