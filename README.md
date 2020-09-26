@@ -72,7 +72,7 @@ While this list is somewhat in chronological learning order, many of the courses
 | [Control Systems in Practice](https://www.youtube.com/playlist?list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b)                     | Brian Douglas        | Control                    | Youtube playlist  |
 | [APMonitor: Process dynamics and control](https://apmonitor.com/pdc/)                                                       | John Hedengren       | Control                    | Online course     |
 | [Modelling and simulation of dynamical systems](https://www.youtube.com/playlist?list=PLMLojHoA_QPlJvgzt_Lkk3ZOB3w8EcQyq)   | aa4cc                | Modelling and simulation   | Youtube playlist  |
-| [Trimming and linearization](https://www.youtube.com/playlist?list=PLn8PRpmsu08pBTodd3FX6cNJAZtzTyBHi)                      | Brian Dougles        | Modelling and simulation   | Youtube playlist  |
+| [Trimming and linearization](https://www.youtube.com/playlist?list=PLn8PRpmsu08pBTodd3FX6cNJAZtzTyBHi)                      | Brian Douglas        | Modelling and simulation   | Youtube playlist  |
 | [Understanding PID Control](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y)                       | Brian Douglas        | Control                    | Youtube playlist  |
 | [Quadcopter simulation and control](https://www.youtube.com/playlist?list=PLiJYYsK6pD-kKP8z_prdGD13_feKitamk)               | Brian Douglas        | Control                    | Youtube playlist  |
 | [State Space Control](https://www.youtube.com/playlist?list=PLn8PRpmsu08podBgFw66-IavqU2SqPg_w)                             | Brian Douglas        | Control                    | Youtube playlist  |
@@ -83,9 +83,9 @@ While this list is somewhat in chronological learning order, many of the courses
 | [Nonlinear Control Systems](https://www.youtube.com/playlist?list=PLhdVEDm7SZ-MqSUpBw78Cb2BmI142R2VA)                       | Topperly             | Nonlinear control          | Youtube playlist  |
 | [ITK NTNU: Nonlinear Control Systems](https://www.youtube.com/playlist?list=PLc2vvxBHfBcoqxoZXx9wS_3elT-_U0B-r)             | Kristin Y. Pettersen | Nonlinear control          | Youtube playlist  |
 | [MIT 6.832: Underactuated Robotics](http://underactuated.csail.mit.edu/Spring2020/index.html) (slides, videos, online book) | Russ Tedrake         | Nonlinear control          | University course |
-| [Robust control](https://www.youtube.com/playlist?list=PLn8PRpmsu08qFLMfgTEzR8DxOPE7fBiin)                                  | Brian Dougles        | Robust control             | Youtube playlist  |
+| [Robust control](https://www.youtube.com/playlist?list=PLn8PRpmsu08qFLMfgTEzR8DxOPE7fBiin)                                  | Brian Douglas        | Robust control             | Youtube playlist  |
 | [Optimal and robust control](https://www.youtube.com/playlist?list=PLMLojHoA_QPmRiPotD_TnfdUkglTexuqm)                      | aa4cc                | Optimal and robust control | Youtube playlist  |
-| [Autonomous navigation](https://www.youtube.com/playlist?list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg)                           | Brian Dougles        | Robotics                   | Youtube playlist  |
+| [Autonomous navigation](https://www.youtube.com/playlist?list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg)                           | Brian Douglas        | Robotics                   | Youtube playlist  |
 | [Georia Tech: Robot control Corsera (2013) ](https://www.youtube.com/playlist?list=PLp8ijpvp8iCvFDYdcXqqYU5Ibl_aOqwjr)      | Magnus Egerstedt     | Robotics                   | Youtube playlist  |
 | [Berkeley CS287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) (slides, videos)                 | Pieter Abbeel        | Robotics                   | University course |
 | [Data-driven control with machine learning](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR)       | Steve Brunton        | Data-driven control        | Youtube playlist  |
@@ -124,4 +124,4 @@ Bonus: MIT OpenCourseWare offers free online courses. Here are their [courses ta
 
 # Similar lists
 
-- [Brian Dougles recommended resources](https://engineeringmedia.com/resources)
+- [Brian Douglas recommended resources](https://engineeringmedia.com/resources)
