@@ -34,17 +34,20 @@ If you know some **awesome free control resources** that deserve to be on this l
 
 ## Books
 
-| Title                                                                                                                      | Author                          | Year               | Topic |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------ | ----- |
-| Control Theory, 2nd Edition                                                                                                | J.R. Leigh                      | Control            | 2004  |
-| [The Fundamentals of Control Theory](https://drive.google.com/file/d/1LAjaDDViFG4H7dQ6PQVHo8XSQHS59GJf/view) (free online) | Brian Douglas                   | Control            | 2019  |
-| Feedback Systems: An Introduction for Scientists and Engineers                                                             | Karl Johan Åstrøm               | Control            | 2008  |
-| [Underactuated Robotics](http://underactuated.csail.mit.edu/index.html) (free online)                                      | Russ Tedrake                    | Control            | 2020  |
-| Nonlinear dynamics and Chaos                                                                                               | Steven Strogatz                 | Nonlinear dynamics | 2014  |
-| Nonlinear systems                                                                                                          | Hassan K. Khalil                | Nonlinear control  | 2002  |
-| Optimal Control Theory: An Introduction                                                                                    | Donald Kirk                     | Optimal control    | 2012  |
-| [Merging Optimization and Control](https://www.itk.ntnu.no/fag/fordypning/TK16-filer/Samling1_MPCnotat.pdf) (free online)  | Bjarne Foss & TorAkselN.Heirung | Optimal control    | 2013  |
-| Dynamic Programming and Optimal Control                                                                                    | Dimitri Bertsekas               | Optimal Control    | 2017  |
+| Title                                                                                                                                         | Author                          | Year               | Topic |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------ | ----- |
+| Control Theory, 2nd Edition                                                                                                                   | J.R. Leigh                      | Control            | 2004  |
+| [The Fundamentals of Control Theory](https://drive.google.com/file/d/1LAjaDDViFG4H7dQ6PQVHo8XSQHS59GJf/view) (free online)                    | Brian Douglas                   | Control            | 2019  |
+| [Feedback Systems: An Introduction for Scientists and Engineers](http://www.cds.caltech.edu/~murray/amwiki/index.php/Main_Page) (free online) | Karl Johan Åstrøm and R. Murry  | Control            | 2020  |
+| [Underactuated Robotics](http://underactuated.csail.mit.edu/index.html) (free online)                                                         | Russ Tedrake                    | Control            | 2020  |
+| Nonlinear Dynamics and Chaos                                                                                                                  | Steven Strogatz                 | Nonlinear dynamics | 2014  |
+| Nonlinear Systems                                                                                                                             | Hassan K. Khalil                | Nonlinear control  | 2002  |
+| Optimal Control Theory: An Introduction                                                                                                       | Donald Kirk                     | Optimal control    | 2012  |
+| [Merging Optimization and Control](https://www.itk.ntnu.no/fag/fordypning/TK16-filer/Samling1_MPCnotat.pdf) (free online)                     | Bjarne Foss & Tor Aksel Heirung | Optimal control    | 2013  |
+| Dynamic Programming and Optimal Control                                                                                                       | Dimitri Bertsekas               | Optimal Control    | 2017  |
+| [Robust Adaptiv Control](https://viterbi-web.usc.edu/~ioannou/Robust_Adaptive_Control.htm) (free online)                                      | Ioannou P. and J. Sun           | Control            | 1996  |
+| [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition) (free online)          | Richard M. Murray et. al        | Robotics           |       |
+| Robot Modeling and Control                                                                                                                    | Mark W. Spong                   | Robotics           | 2005  |
 
 ## Websites and youtube channels
 
