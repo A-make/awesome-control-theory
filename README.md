@@ -7,7 +7,7 @@
 	</div>
 	<h1>Awesome Control Theory</h1>
 	<p>
-		<a href="https://en.wikipedia.org/wiki/Control_theory">Control theory</a>  is a branch of applied mathematics that deals with the topic of controlling actuated dynamical systems.
+		<a href="https://en.wikipedia.org/wiki/Control_theory">Control theory</a> is a branch of applied mathematics that deals with the design of control policies for actuated dynamical systems. Control engineering is a cross-discipline field which applies control theory to a wide range of systems such as industrial plants, aerospace, robotics and more.
 	</p>
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
@@ -32,22 +32,24 @@ Except for some of the books, all resources provided here should be free, availa
 
 If you know some **awesome free control resources** that deserve to be on this list, feel free to post them in [this issue](https://github.com/A-make/awesome-control-theory/issues/1) or make a pull-request. See [contribution guidelines](contributing.md).
 
+**Start with this**: For a great historical background and introduction to control, you should definitely read [Karl J. Åstrøm and P.R. Kumar, 2014, Control: A perspective](https://www.sciencedirect.com/science/article/pii/S0005109813005037) (if you don't have access to the paper though this link, Google for the pdf). A presentation of the same topic can be found on youtube [here](https://youtu.be/_V_xlWtA5lY).
+
 ## Books
 
-| Title                                                                                                                                         | Author                          | Year               | Topic |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------ | ----- |
-| Control Theory, 2nd Edition                                                                                                                   | J.R. Leigh                      | Control            | 2004  |
-| [The Fundamentals of Control Theory](https://drive.google.com/file/d/1LAjaDDViFG4H7dQ6PQVHo8XSQHS59GJf/view) (free online)                    | Brian Douglas                   | Control            | 2019  |
-| [Feedback Systems: An Introduction for Scientists and Engineers](http://www.cds.caltech.edu/~murray/amwiki/index.php/Main_Page) (free online) | Karl Johan Åstrøm and R. Murry  | Control            | 2020  |
-| [Underactuated Robotics](http://underactuated.csail.mit.edu/index.html) (free online)                                                         | Russ Tedrake                    | Control            | 2020  |
-| Nonlinear Dynamics and Chaos                                                                                                                  | Steven Strogatz                 | Nonlinear dynamics | 2014  |
-| Nonlinear Systems                                                                                                                             | Hassan K. Khalil                | Nonlinear control  | 2002  |
-| Optimal Control Theory: An Introduction                                                                                                       | Donald Kirk                     | Optimal control    | 2012  |
-| [Merging Optimization and Control](https://www.itk.ntnu.no/fag/fordypning/TK16-filer/Samling1_MPCnotat.pdf) (free online)                     | Bjarne Foss & Tor Aksel Heirung | Optimal control    | 2013  |
-| Dynamic Programming and Optimal Control                                                                                                       | Dimitri Bertsekas               | Optimal Control    | 2017  |
-| [Robust Adaptiv Control](https://viterbi-web.usc.edu/~ioannou/Robust_Adaptive_Control.htm) (free online)                                      | Ioannou P. and J. Sun           | Control            | 1996  |
-| [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition) (free online)          | Richard M. Murray et. al        | Robotics           |       |
-| Robot Modeling and Control                                                                                                                    | Mark W. Spong                   | Robotics           | 2005  |
+| Title                                                                                                                                         | Author                          | Topic              | Year |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------ | ---- |
+| [Feedback Systems: An Introduction for Scientists and Engineers](http://www.cds.caltech.edu/~murray/amwiki/index.php/Main_Page) (free online) | Karl Johan Åstrøm and R. Murry  | Control            | 2020 |
+| Control Theory, 2nd Edition                                                                                                                   | J.R. Leigh                      | Control            | 2004 |
+| [The Fundamentals of Control Theory](https://drive.google.com/file/d/1LAjaDDViFG4H7dQ6PQVHo8XSQHS59GJf/view) (free online)                    | Brian Douglas                   | Control            | 2019 |
+| [Underactuated Robotics](http://underactuated.csail.mit.edu/index.html) (free online)                                                         | Russ Tedrake                    | Control            | 2020 |
+| Nonlinear Dynamics and Chaos                                                                                                                  | Steven Strogatz                 | Nonlinear dynamics | 2014 |
+| Nonlinear Systems                                                                                                                             | Hassan K. Khalil                | Nonlinear control  | 2002 |
+| Optimal Control Theory: An Introduction                                                                                                       | Donald Kirk                     | Optimal control    | 2012 |
+| [Merging Optimization and Control](https://www.itk.ntnu.no/fag/fordypning/TK16-filer/Samling1_MPCnotat.pdf) (free online)                     | Bjarne Foss & Tor Aksel Heirung | Optimal control    | 2013 |
+| Dynamic Programming and Optimal Control                                                                                                       | Dimitri Bertsekas               | Optimal Control    | 2017 |
+| [Robust Adaptiv Control](https://viterbi-web.usc.edu/~ioannou/Robust_Adaptive_Control.htm) (free online)                                      | Ioannou P. and J. Sun           | Control            | 1996 |
+| [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition) (free online)          | Richard M. Murray et. al        | Robotics           |      |
+| Robot Modeling and Control                                                                                                                    | Mark W. Spong                   | Robotics           | 2005 |
 
 ## Websites and youtube channels
 
@@ -61,8 +63,9 @@ These authors cover multiple topics in control on their websites and/or Youtube 
   - [MATLAB and Simulink Robotics Arena](https://www.mathworks.com/videos/series/matlab-and-simulink-robotics-arena.html)
   - [Robotics and Autonomous Systems](https://www.mathworks.com/solutions/robotics.html)
   - [Youtube channel](https://www.youtube.com/user/MATLAB)
+- [Control Systems Academy](http://www.controlsystemsacademy.com/) with several interactive simulators
 - [Reflections of a Process Control Practitioner](https://blog.opticontrols.com/site-map)
-- [Studywolf: control, RL and neuroscience](https://studywolf.wordpress.com/site-index/)
+- [Studywolf blog: control, RL and neuroscience](https://studywolf.wordpress.com/site-index/)
 
 ## Free course material and youtube playlists
 
