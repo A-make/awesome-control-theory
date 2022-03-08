@@ -50,6 +50,7 @@ If you know some **awesome free control resources** that deserve to be on this l
 | [Robust Adaptiv Control](https://viterbi-web.usc.edu/~ioannou/Robust_Adaptive_Control.htm) (free online)                                      | Ioannou P. and J. Sun           | Control            | 1996 |
 | [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition) (free online)          | Richard M. Murray et. al        | Robotics           |      |
 | Robot Modeling and Control                                                                                                                    | Mark W. Spong                   | Robotics           | 2005 |
+| [Controls Engineering in the FIRST Robotics Competition](https://file.tavsys.net/control/controls-engineering-in-frc.pdf) (free online)       | Tyler Veness		          | Robotics           | 2022 | 
 
 ## Websites and youtube channels
 
@@ -92,7 +93,7 @@ While this list is somewhat in chronological learning order, many of the courses
 | [Robust control](https://www.youtube.com/playlist?list=PLn8PRpmsu08qFLMfgTEzR8DxOPE7fBiin)                                  | Brian Douglas        | Robust control             | Youtube playlist  |
 | [Optimal and robust control](https://www.youtube.com/playlist?list=PLMLojHoA_QPmRiPotD_TnfdUkglTexuqm)                      | aa4cc                | Optimal and robust control | Youtube playlist  |
 | [Autonomous navigation](https://www.youtube.com/playlist?list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg)                           | Brian Douglas        | Robotics                   | Youtube playlist  |
-| [Georia Tech: Robot control Corsera (2013) ](https://www.youtube.com/playlist?list=PLp8ijpvp8iCvFDYdcXqqYU5Ibl_aOqwjr)      | Magnus Egerstedt     | Robotics                   | Youtube playlist  |
+| [Georgia Tech: Robot control Corsera (2013) ](https://www.youtube.com/playlist?list=PLp8ijpvp8iCvFDYdcXqqYU5Ibl_aOqwjr)      | Magnus Egerstedt     | Robotics                   | Youtube playlist  |
 | [Berkeley CS287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) (slides, videos)                 | Pieter Abbeel        | Robotics                   | University course |
 | [Data-driven control with machine learning](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR)       | Steve Brunton        | Data-driven control        | Youtube playlist  |
 
