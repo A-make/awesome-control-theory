@@ -47,7 +47,7 @@ If you know some **awesome free control resources** that deserve to be on this l
 | Optimal Control Theory: An Introduction                                                                                                       | Donald Kirk                     | Optimal control    | 2012 |
 | [Merging Optimization and Control](https://www.itk.ntnu.no/fag/fordypning/TK16-filer/Samling1_MPCnotat.pdf) (free online)                     | Bjarne Foss & Tor Aksel Heirung | Optimal control    | 2013 |
 | Dynamic Programming and Optimal Control                                                                                                       | Dimitri Bertsekas               | Optimal Control    | 2017 |
-| [Robust Adaptiv Control](https://viterbi-web.usc.edu/~ioannou/Robust_Adaptive_Control.htm) (free online)                                      | Ioannou P. and J. Sun           | Control            | 1996 |
+| [Robust Adaptive Control](https://viterbi-web.usc.edu/~ioannou/Robust_Adaptive_Control.htm) (free online)                                      | Ioannou P. and J. Sun           | Control            | 1996 |
 | [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition) (free online)          | Richard M. Murray et. al        | Robotics           |      |
 | Robot Modeling and Control                                                                                                                    | Mark W. Spong                   | Robotics           | 2005 |
 | [Controls Engineering in the FIRST Robotics Competition](https://file.tavsys.net/control/controls-engineering-in-frc.pdf) (free online)       | Tyler Veness		          | Robotics           | 2022 | 
