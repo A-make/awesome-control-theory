@@ -7,7 +7,7 @@
 	</div>
 	<h1>Awesome Control Theory</h1>
 	<p>
-		<a href="https://en.wikipedia.org/wiki/Control_theory">Control theory</a> is a branch of applied mathematics that deals with the design of control policies for actuated dynamical systems. Control engineering is a cross-discipline field which applies control theory to a wide range of systems such as industrial plants, aerospace, robotics and more.
+		<a href="https://en.wikipedia.org/wiki/Control_theory">Control theory</a> is a branch of applied mathematics that deals with the design of control policies for actuated dynamical systems. Control engineering is a cross-discipline field that applies control theory to a wide range of systems such as industrial plants, aerospace, robotics and more.
 	</p>
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
@@ -15,8 +15,9 @@
 	<br>
 </div>
 
-**Table of contents**
+## Contents
 
+- [Contents](#contents)
 - [Resources](#resources)
   - [Books](#books)
   - [Websites and YouTube channels](#websites-and-youtube-channels)
@@ -26,15 +27,15 @@
   - [Software, toolboxes and libraries](#software-toolboxes-and-libraries)
 - [Similar Lists](#similar-lists)
 
-# Resources
+## Resources
 
 Except for some of the books, all resources provided here should be free, available online and should not require logging in to any service. All credit goes to the **awesome authors** of these resources.
 
 If you know some **awesome free control resources** that deserve to be on this list, feel free to post them in [this issue](https://github.com/A-make/awesome-control-theory/issues/1) or make a pull-request. See [contribution guidelines](contributing.md).
 
-**Start with this**: For a great historical background and introduction to control, you should definitely read [Karl J. Åstrøm and P.R. Kumar, 2014, Control: A perspective](https://www.sciencedirect.com/science/article/pii/S0005109813005037) (if you don't have access to the paper though this link, Google for the pdf). A presentation of the same topic can be found on youtube [here](https://youtu.be/_V_xlWtA5lY).
+**Start with this**: For a great historical background and introduction to control, you should definitely read [Karl J. Åstrøm and P.R. Kumar, 2014, Control: A perspective](https://www.sciencedirect.com/science/article/pii/S0005109813005037) (if you don't have access to the paper through this link, Google for the pdf). A presentation on the same topic can be found on YouTube [here](https://youtu.be/_V_xlWtA5lY).
 
-## Books
+### Books
 
 | Title                                                                                                                                         | Author                          | Topic              | Year |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------ | ---- |
@@ -52,7 +53,7 @@ If you know some **awesome free control resources** that deserve to be on this l
 | Robot Modeling and Control                                                                                                                    | Mark W. Spong                   | Robotics           | 2005 |
 | [Controls Engineering in the FIRST Robotics Competition](https://file.tavsys.net/control/controls-engineering-in-frc.pdf) (free online)       | Tyler Veness		          | Robotics           | 2022 | 
 
-## Websites and YouTube channels
+### Websites and YouTube channels
 
 These authors cover multiple topics in control on their websites and/or YouTube channels.
 
@@ -68,9 +69,9 @@ These authors cover multiple topics in control on their websites and/or YouTube 
 - [Reflections of a Process Control Practitioner](https://blog.opticontrols.com/site-map)
 - [Studywolf blog: control, RL and neuroscience](https://studywolf.wordpress.com/site-index/)
 
-## Free course material and YouTube playlists
+### Free course material and YouTube playlists
 
-While this list is somewhat in chronological learning order, many of the courses/playlists advance beyond topics lower down the list as you work through them. So don't get to caught up in the ordering here.
+While this list is somewhat in chronological learning order, many of the courses/playlists advance beyond topics lower down the list as you work through them. So don't get too caught up in the ordering here.
 
 | Resource                                                                                                                    | Author               | Topic                      | Type              |
 | --------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------------- | ----------------- |
@@ -99,7 +100,7 @@ While this list is somewhat in chronological learning order, many of the courses
 
 Bonus: MIT OpenCourseWare offers free online courses. Here are their [courses tagged with Control](https://ocw.mit.edu/search/ocwsearch.htm?q=control).
 
-## Tutorials
+### Tutorials
 
 - MATLAB
   - [Control Tutorials for MATLAB and Simulink | University of Michigan](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
@@ -111,9 +112,9 @@ Bonus: MIT OpenCourseWare offers free online courses. Here are their [courses ta
   - Cart-pole dynamics
   - Numerical simulation
 
-# Tools
+## Tools
 
-## Software, toolboxes and libraries
+### Software, toolboxes and libraries
 
 - [Matlab](https://mathworks.com/products/matlab.html) + [Simulink](https://mathworks.com/products/simulink.html)
   - [Control Systems Toolbox](https://mathworks.com/products/control.html)
@@ -129,6 +130,6 @@ Bonus: MIT OpenCourseWare offers free online courses. Here are their [courses ta
   - [do-mpc](https://www.do-mpc.com/en/latest/)
   - [Shunichi09/linear_nonlinear_control](https://github.com/Shunichi09/linear_nonlinear_control)
 
-# Similar Lists
+## Similar Lists
 
 - [Brian Douglas recommended resources](https://engineeringmedia.com/resources)
