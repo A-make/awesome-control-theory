@@ -17,7 +17,6 @@
 
 ## Contents
 
-- [Contents](#contents)
 - [Resources](#resources)
   - [Books](#books)
   - [Websites and YouTube channels](#websites-and-youtube-channels)
