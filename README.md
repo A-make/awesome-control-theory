@@ -1,3 +1,6 @@
+# Awesome Control Theory [![awesome-badge](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[Control theory](https://en.wikipedia.org/wiki/Control_theory) is a branch of applied mathematics that deals with the design of control policies for actuated dynamical systems. Control engineering is a cross-discipline field that applies control theory to a wide range of systems such as industrial plants, aerospace, robotics and more.
+
 <div align="center">
 	<div>
 		<!-- <img width="800" src="media/control_system_pid.png" alt="PID control system"> -->
@@ -6,11 +9,6 @@
 		<p><small><a href="https://www.redbubble.com/shop/ap/55089837">Map</a> by Brian Douglas</small></p>
 	</div>
 </div>
-
-<!-- omit from toc -->
-# Awesome Control Theory [![awesome-badge](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
-[Control theory](https://en.wikipedia.org/wiki/Control_theory) is a branch of applied mathematics that deals with the design of control policies for actuated dynamical systems. Control engineering is a cross-discipline field that applies control theory to a wide range of systems such as industrial plants, aerospace, robotics and more.
 
 ## Contents
 
@@ -53,15 +51,15 @@ If you know some **awesome free control resources** that deserve to be on this l
 
 These authors cover multiple topics in control on their websites and/or YouTube channels.
 
-- [Brian Douglas | Engineering Media](https://engineeringmedia.com/) - great lectures which can be found on his [YouTube channel](https://www.youtube.com/user/ControlLectures).
-- [Steve Brunton](https://www.eigensteve.com/) - great lectures which can be found on his [YouTube channel](https://www.youtube.com/c/Eigensteve).
-- [APMonitor](https://apmonitor.com/) - created by John Hedengren who also has a [YouTube channel](https://www.youtube.com/user/APMonitorCom).
+- [Brian Douglas | Engineering Media](https://engineeringmedia.com/) - Great lectures which can be found on his [YouTube channel](https://www.youtube.com/user/ControlLectures).
+- [Steve Brunton](https://www.eigensteve.com/) - Great lectures which can be found on his [YouTube channel](https://www.youtube.com/c/Eigensteve).
+- [APMonitor](https://apmonitor.com/) - Created by John Hedengren who also has a [YouTube channel](https://www.youtube.com/user/APMonitorCom).
 - MATLAB
   - [MATLAB Tech Talks: Control Systems](https://www.mathworks.com/videos/tech-talks/controls.html)
   - [MATLAB and Simulink Robotics Arena](https://www.mathworks.com/videos/series/matlab-and-simulink-robotics-arena.html)
   - [Robotics and Autonomous Systems](https://www.mathworks.com/solutions/robotics.html)
   - [YouTube channel](https://www.youtube.com/user/MATLAB)
-- [Control Systems Academy](http://www.controlsystemsacademy.com/) - includes several interactive simulators.
+- [Control Systems Academy](http://www.controlsystemsacademy.com/) - Includes several interactive simulators.
 - [Reflections of a Process Control Practitioner](https://blog.opticontrols.com/site-map)
 - [Studywolf blog: control, RL and neuroscience](https://studywolf.wordpress.com/site-index/)
 
