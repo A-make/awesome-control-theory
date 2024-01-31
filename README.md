@@ -45,7 +45,7 @@ If you know some **awesome free control resources** that deserve to be on this l
 | Nonlinear Dynamics and Chaos                                                                                                                  | Steven Strogatz                 | Nonlinear dynamics | 2014 |
 | Nonlinear Systems                                                                                                                             | Hassan K. Khalil                | Nonlinear control  | 2002 |
 | Optimal Control Theory: An Introduction                                                                                                       | Donald Kirk                     | Optimal control    | 2012 |
-| [Merging Optimization and Control](https://www.itk.ntnu.no/fag/fordypning/TK16-filer/Samling1_MPCnotat.pdf) (free online)                     | Bjarne Foss & Tor Aksel Heirung | Optimal control    | 2013 |
+| [Merging Optimization and Control](https://folk.ntnu.no/bjarnean/Publications/OptimalControl.pdf) (free online)                     | Bjarne Foss & Tor Aksel Heirung | Optimal control    | 2013 |
 | Dynamic Programming and Optimal Control                                                                                                       | Dimitri Bertsekas               | Optimal Control    | 2017 |
 | [Robust Adaptive Control](https://viterbi-web.usc.edu/~ioannou/Robust_Adaptive_Control.htm) (free online)                                      | Ioannou P. and J. Sun           | Control            | 1996 |
 | [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition) (free online)          | Richard M. Murray et. al        | Robotics           |      |
