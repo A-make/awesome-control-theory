@@ -1,3 +1,5 @@
+# Awesome Control Theory [![awesome-badge](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 <div align="center">
 	<div>
 		<!-- <img width="800" src="media/control_system_pid.png" alt="PID control system"> -->
@@ -6,9 +8,6 @@
 		<p><small><a href="https://www.redbubble.com/shop/ap/55089837">Map</a> by Brian Douglas</small></p>
 	</div>
 </div>
-
-<!-- omit from toc -->
-# Awesome Control Theory [![awesome-badge](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 [Control theory](https://en.wikipedia.org/wiki/Control_theory) is a branch of applied mathematics that deals with the design of control policies for actuated dynamical systems. Control engineering is a cross-discipline field that applies control theory to a wide range of systems such as industrial plants, aerospace, robotics and more.
 
