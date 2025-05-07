@@ -31,21 +31,21 @@ If you know some **awesome free control resources** that deserve to be on this l
 
 ### Books
 
-| Title                                                                                                                                         | Author                          | Topic              | Year |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------ | ---- |
-| [Feedback Systems: An Introduction for Scientists and Engineers](http://www.cds.caltech.edu/~murray/amwiki/index.php/Main_Page) (free online) | Karl Johan Åstrøm and R. Murry  | Control            | 2020 |
-| Control Theory, 2nd Edition                                                                                                                   | J.R. Leigh                      | Control            | 2004 |
-| [The Fundamentals of Control Theory](https://drive.google.com/file/d/1LAjaDDViFG4H7dQ6PQVHo8XSQHS59GJf/view) (free online)                    | Brian Douglas                   | Control            | 2019 |
-| [Underactuated Robotics](http://underactuated.csail.mit.edu/index.html) (free online)                                                         | Russ Tedrake                    | Control            | 2020 |
-| Nonlinear Dynamics and Chaos                                                                                                                  | Steven Strogatz                 | Nonlinear dynamics | 2014 |
-| Nonlinear Systems                                                                                                                             | Hassan K. Khalil                | Nonlinear control  | 2002 |
-| Optimal Control Theory: An Introduction                                                                                                       | Donald Kirk                     | Optimal control    | 2012 |
-| [Merging Optimization and Control](https://folk.ntnu.no/bjarnean/Publications/OptimalControl.pdf) (free online)                     | Bjarne Foss & Tor Aksel Heirung | Optimal control    | 2013 |
-| Dynamic Programming and Optimal Control                                                                                                       | Dimitri Bertsekas               | Optimal Control    | 2017 |
-| [Robust Adaptive Control](https://viterbi-web.usc.edu/~ioannou/Robust_Adaptive_Control.htm) (free online)                                      | Ioannou P. and J. Sun           | Control            | 1996 |
-| [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition) (free online)          | Richard M. Murray et. al        | Robotics           |      |
-| Robot Modeling and Control                                                                                                                    | Mark W. Spong                   | Robotics           | 2005 |
-| [Controls Engineering in the FIRST Robotics Competition](https://file.tavsys.net/control/controls-engineering-in-frc.pdf) (free online)       | Tyler Veness		          | Robotics           | 2022 | 
+| Title                                                                                                                                                        | Author                          | Topic              | Year |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- | ------------------ | ---- |
+| [Feedback Systems: An Introduction for Scientists and Engineers](https://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_22Feb09.pdf) (free online) | Karl Johan Åstrøm and R. Murry  | Control            | 2009 |
+| Control Theory, 2nd Edition                                                                                                                                  | J.R. Leigh                      | Control            | 2004 |
+| [The Fundamentals of Control Theory](https://drive.google.com/file/d/1LAjaDDViFG4H7dQ6PQVHo8XSQHS59GJf/view) (free online)                                   | Brian Douglas                   | Control            | 2019 |
+| [Underactuated Robotics](http://underactuated.csail.mit.edu/index.html) (free online)                                                                        | Russ Tedrake                    | Control            | 2020 |
+| Nonlinear Dynamics and Chaos                                                                                                                                 | Steven Strogatz                 | Nonlinear dynamics | 2014 |
+| Nonlinear Systems                                                                                                                                            | Hassan K. Khalil                | Nonlinear control  | 2002 |
+| Optimal Control Theory: An Introduction                                                                                                                      | Donald Kirk                     | Optimal control    | 2012 |
+| [Merging Optimization and Control](https://www.itk.ntnu.no/_media/notat_mpc_ny.pdf) (free online)                                                            | Bjarne Foss & Tor Aksel Heirung | Optimal control    | 2016 |
+| Dynamic Programming and Optimal Control                                                                                                                      | Dimitri Bertsekas               | Optimal Control    | 2017 |
+| [Robust Adaptive Control](https://viterbi-web.usc.edu/~ioannou/Robust_Adaptive_Control.htm) (free online)                                                    | Ioannou P. and J. Sun           | Control            | 1996 |
+| [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition) (free online)                         | Richard M. Murray et. al        | Robotics           |      |
+| Robot Modeling and Control                                                                                                                                   | Mark W. Spong                   | Robotics           | 2005 |
+| [Controls Engineering in the FIRST Robotics Competition](https://file.tavsys.net/control/controls-engineering-in-frc.pdf) (free online)                      | Tyler Veness                    | Robotics           | 2022 |
 
 ### Websites and YouTube channels
 
@@ -70,7 +70,7 @@ While this list is somewhat in chronological learning order, many of the courses
 | Resource                                                                                                                    | Author               | Topic                      | Type              |
 | --------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------------- | ----------------- |
 | [Control bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)                                | Steve Brunton        | Control                    | YouTube playlist  |
-| [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)                        | Brian Douglas        | Control                    | YouTube playlist  |
+| [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)                        | Brian Douglas        | Control                    | YouTube playlist  |f
 | [Control Systems in Practice](https://www.youtube.com/playlist?list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b)                     | Brian Douglas        | Control                    | YouTube playlist  |
 | [APMonitor: Process dynamics and control](https://apmonitor.com/pdc/)                                                       | John Hedengren       | Control                    | Online course     |
 | [Modelling and simulation of dynamical systems](https://www.youtube.com/playlist?list=PLMLojHoA_QPlJvgzt_Lkk3ZOB3w8EcQyq)   | aa4cc                | Modelling and simulation   | YouTube playlist  |
