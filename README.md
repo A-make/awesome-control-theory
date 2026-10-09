@@ -123,6 +123,7 @@ Bonus: MIT OpenCourseWare offers free online courses. Here are their [courses ta
   - [PyTrajectory](https://pytrajectory.readthedocs.io/en/master/index.html)
   - [do-mpc](https://www.do-mpc.com/en/latest/)
   - [Shunichi09/linear_nonlinear_control](https://github.com/Shunichi09/linear_nonlinear_control)
+- [BlockWerk](https://blockwerk.tech/) - Browser-based block diagram simulator for control systems and dynamic system modelling. Runs fixed-step RK4, adaptive RK45 (Dormand–Prince), and TR-BDF2 stiff solvers in WebAssembly, with state-space models, PID autotuning, and real-time scope plotting.
 
 ## Similar Lists
 
