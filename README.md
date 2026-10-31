@@ -123,6 +123,7 @@ Bonus: MIT OpenCourseWare offers free online courses. Here are their [courses ta
   - [PyTrajectory](https://pytrajectory.readthedocs.io/en/master/index.html)
   - [do-mpc](https://www.do-mpc.com/en/latest/)
   - [Shunichi09/linear_nonlinear_control](https://github.com/Shunichi09/linear_nonlinear_control)
+  - [Petru1803/flight-control-designer](https://github.com/Petru1803/flight-control-designer)
 
 ## Similar Lists
 
